@@ -1,6 +1,6 @@
-# Aurora Backend
+# Aurora / Anomaly Backend
 
-**WE ARE NOT PROVIDING EXTRA SUPPORT FOR THIS**
+**WORK IN PROGRESS**
 
 This repo includes the backend code for Aurora, with accounts, parties, XMPP, and more. 
 
